@@ -51,7 +51,8 @@
 ![](https://github.com/stels24/-Help/blob/main/Выбираем%20статус.png)
 ![](https://github.com/stels24/-Help/blob/main/Выбор%20даты%20исполнения%20задачи.png)
    На дашборде есть кнопки Дoбавления, Редактирования, удаления, фильтра  задач.
-   ![](https://github.com/stels24/-Help/blob/main/Просмотр%20задачи.png)
+   ![](https://github.com/stels24/-Help/blob/main/Кнопки%20добавления%20задач.png)
+   ![](https://github.com/stels24/-Help/blob/main/Запись%20сформированной%20задачи.png))
 
 
 
