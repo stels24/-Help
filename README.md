@@ -93,7 +93,7 @@
 
 Структура дериктории tempates
 
-![](https://github.com/stels24/-Help/blob/main/Структура%20каталога%20файлов%20в%20Django.png)
+![](https://github.com/stels24/-Help/blob/main/Структра%20файлов%20Django%20папки%20templates.png)
 
 ## 4. Структура сайта.
 
