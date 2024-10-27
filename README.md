@@ -84,3 +84,27 @@
    - Проверка внесенных данных в БД и их редактирование
 
 ## 4. Структура сайта.
+
+4.1. После запуска кода в командной строке (python manage.py runserver) перехоим по адресу: http://127.0.0.1:8000/dashboard/ (локально)
+где появляется возможность добавлять пользователя и задачи.
+
+![]([https://github.com/stels24/-Help/blob/main/Кнопка%20редактирования.png](https://github.com/stels24/-Help/blob/main/Дашборд%20в%20Django.png))
+
+4.2. Набрав адрес на странице (http://127.0.0.1:8000/admin/) переходим в панель администрирования Django, где появляется возможность добавления одиночных пользователей, групп пользователей, категорий, задач.
+
+![](https://github.com/stels24/-Help/blob/main/Добавление%20задачи%20и%20пользователя%20Django.png)
+
+![](https://github.com/stels24/-Help/blob/main/Заполнение%20полей%20пользователя%20в%20БД%20Django.png)
+
+![](https://github.com/stels24/-Help/blob/main/Создание%20Категории%20Django.png)
+
+![](https://github.com/stels24/-Help/blob/main/Создание%20группы%20пользователей%20Django.png)
+
+![](https://github.com/stels24/-Help/blob/main/Созданные%20ранее%20категории%20Django.png)
+
+4.3 Установив отдельное приложение DB Browser, можем осуществлять просмотр и редактирование информации в БД
+
+
+![](https://github.com/stels24/-Help/blob/main/Задачи%20в%20БД.png)
+
+![](https://github.com/stels24/-Help/blob/main/Пользователи%20загруженные%20в%20БД.png)
