@@ -91,6 +91,10 @@
 
 ![](https://github.com/stels24/-Help/blob/main/Структура%20каталога%20файлов%20в%20Django.png)
 
+Структура дериктории tempates
+
+![](https://github.com/stels24/-Help/blob/main/Структура%20каталога%20файлов%20в%20Django.png)
+
 ## 4. Структура сайта.
 
 4.1. После запуска кода в командной строке (python manage.py runserver) перехоим по адресу: http://127.0.0.1:8000/dashboard/ (локально)
